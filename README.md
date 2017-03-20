@@ -1,0 +1,1 @@
+configurable_spa_template
