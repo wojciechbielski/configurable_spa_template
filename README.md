@@ -1,1 +1,1 @@
-configurable_spa_template
+configurable spa template
